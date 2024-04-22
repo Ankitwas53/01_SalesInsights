@@ -1,1 +1,1 @@
-# 01_SalesInsights
+# Sales Insights Data Analysis Project
